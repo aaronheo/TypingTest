@@ -1,0 +1,15 @@
+body {
+    background-color:rgb(53, 59, 60)
+}
+.words {
+    margin: auto;
+    margin-top: 20%;
+    width:80%;
+}
+
+.word_row {
+    color: white;
+    display:inline-block;
+    width:100%;
+    text-align:center;
+}
